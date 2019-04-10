@@ -31,4 +31,6 @@ git commit -m 'blog init'
 # Create username.github.io with your Github account.
 # Sync our newly created repository to Github.
 git remote add origin git@github.com:yourname/yourname.github.io
+git push origin master
+# Open https://yourname.github.io/
 ```
