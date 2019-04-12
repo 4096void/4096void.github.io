@@ -6,7 +6,7 @@ layout: default
 
 ### Local setup.
 ```bash
-# Maybe U need 2 install ruby first.
+# Manybe you need to install Ruby first.
 gem install jekyll bundler
 jekyll new blog
 cd blog
