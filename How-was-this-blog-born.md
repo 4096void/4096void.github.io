@@ -6,31 +6,45 @@ layout: default
 
 ### Local setup.
 ```bash
-# Manybe you need to install Ruby first.
+# Maybe you need to install Ruby first.
+
+# Up an running.
 gem install jekyll bundler
 jekyll new blog
 cd blog
 bundle exec jekyll serve
-# Now open localhost:4000 in your browser.
 
-# Switch to a new terminal tab.
+# Open localhost:4000 to see your browser.
+
+# Switch to a new tab.
 # Add jekyll-theme-minimal to Gemfile.
-# Modify _config.yml's theme to jekyll-theme-minimal.
+# gem add jekyll-theme-minimal
+
+# Modify _config.yml's to theme: jekyll-theme-minimal.
 # Install jekyll-theme-minimal.
-# Now refresh your browser, you'll see it.
+# bundle install
+# Reload browser, you'll see it.
 ```
 
 ### Put into repository.
 ```bash
 git init
-# Add _site, .sass-cache, .jekyll-metadata, *.gem and Gemfile.lock
+# ignore these files or directories:
+#   _site
+#   .sass-cache
+#   .jekyll-metadata
+#   *.gem
+#   Gemfile.lock
 emacs .gitignore
+
+# Create username.github.io github repository:
+# Add origin.
+git remote add origin git@github.com:yourname/yourname.github.io
+
+# Push.
 git add --all
 git commit -m 'blog init'
-
-# Create username.github.io with your Github account.
-# Sync our newly created repository to Github.
-git remote add origin git@github.com:yourname/yourname.github.io
 git push origin master
-# Open https://yourname.github.io/
+
+# Goto https://yourname.github.io/
 ```
