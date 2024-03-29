@@ -3,7 +3,7 @@ title = 'How This Blog Come Into Place'
 date = 2024-03-29T21:47:26+08:00
 tldr = 'yet another blog setup guide'
 description = 'setup a blog at local & on GitHub'
-tags = ['manual']
+tags = ['whipthrough']
 +++
 
 ## What if you need a blog
