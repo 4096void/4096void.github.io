@@ -44,3 +44,4 @@ tags = ['whipthrough']
 - GitHub Pages https://pages.github.com/
 - Host on GitHub Pages https://gohugo.io/hosting-and-deployment/hosting-on-github/
 - Configure your GitHub repo build & deployment source at https://github.com/${your_GH_name}/${your_GH_name}.github.io/settings/pages (which need to replace with your GitHub acountname first)
+- Ask HN: Looking for lightweight personal blogging platform https://news.ycombinator.com/item?id=39272953
