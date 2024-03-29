@@ -6,12 +6,13 @@ description = 'setup a blog at local & on GitHub'
 tags = ['manual']
 +++
 
-## I need a blog
-- my choice is [HUGO](https://gohugo.io/)
+## What if you need a blog
+- my choice is HUGO
   - write blog(s) at local
     - `brew install hugo` or [else](https://gohugo.io/installation/), smoke test `hugo version`
     - find a place to init your blog `hugo new site ${your_blog_name}`, then `cd` into it
     - let Git be in charge of your blog history `git init`
+    - create `.gitignore` and add `public` which built content stored within
     - [find a theme you like](https://themes.gohugo.io/), I like `archie` and download it
       - `git submodule add https://github.com/athul/archie.git themes/archie`
     - `touch hugo.toml` to config: [see]()
@@ -34,7 +35,11 @@ tags = ['manual']
     - create `.github/workflows/hugo.yaml` with content from [hosting & deploy on Github](https://gohugo.io/hosting-and-deployment/hosting-on-github/)'s Step 6
     - commit hugo.yaml with msg "add workflow"
 
-<!-- https://pages.github.com/ -->
-<!-- references links -->
-<!-- upload to github -->
-<!-- add github actions -->
+## references
+- HUGO https://gohugo.io/
+- HUGO installation https://gohugo.io/installation/
+- HUGO themes https://themes.gohugo.io/
+- HUGO add content https://gohugo.io/getting-started/quick-start/#add-content
+- GitHub Pages https://pages.github.com/
+- Host on GitHub Pages https://gohugo.io/hosting-and-deployment/hosting-on-github/
+- Configure your GitHub repo build & deployment source at https://github.com/${your_GH_name}/${your_GH_name}.github.io/settings/pages (which need to replace with your GitHub acountname first)
