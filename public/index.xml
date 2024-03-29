@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TJ is rambling &#43;&#43;</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TJ is rambling &#43;&#43;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2024 21:47:26 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How This Blog Come Into Place</title>
+      <link>http://localhost:1313/posts/how-this-blog-come-into-place/</link>
+      <pubDate>Fri, 29 Mar 2024 21:47:26 +0800</pubDate>
+      <guid>http://localhost:1313/posts/how-this-blog-come-into-place/</guid>
+      <description>I need a blog my choice is HUGO brew install hugo or else smoke test hugo version init blog hugo new site ${your_blog_name} cd to your blog&amp;rsquo;s directory git init let Git be in charge of current folder&amp;rsquo;s history add the theme you like, I like archie theme git submodule add https://github.com/athul/archie.git themes/archie config via hugo.toml add the above you just install echo &amp;quot;theme = &#39;archie&#39;&amp;quot; &amp;gt;&amp;gt; hugo.toml light &amp;amp; dark mode subtitle for your blog up &amp;amp; run hugo server all blogs go in content/posts directory, see hugo new content posts/${name-for-your-post}.</description>
+    </item>
+  </channel>
+</rss>
