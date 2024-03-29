@@ -15,7 +15,7 @@ tags = ['whipthrough']
     - create `.gitignore` and add `public` which built content stored within
     - [find a theme you like](https://themes.gohugo.io/), I like `archie` and download it
       - `git submodule add https://github.com/athul/archie.git themes/archie`
-    - `touch hugo.toml` to config: [see]()
+    - `touch hugo.toml` to config: [see](https://github.com/athul/archie?tab=readme-ov-file#config-of-the-demo-site)
       - theme `echo "theme = 'archie'" >> hugo.toml`
       - light & dark mode
       - subtitle of your blog
@@ -40,6 +40,7 @@ tags = ['whipthrough']
 - HUGO installation https://gohugo.io/installation/
 - HUGO themes https://themes.gohugo.io/
 - HUGO add content https://gohugo.io/getting-started/quick-start/#add-content
+- hugo.toml config template https://github.com/athul/archie?tab=readme-ov-file#config-of-the-demo-site
 - GitHub Pages https://pages.github.com/
 - Host on GitHub Pages https://gohugo.io/hosting-and-deployment/hosting-on-github/
 - Configure your GitHub repo build & deployment source at https://github.com/${your_GH_name}/${your_GH_name}.github.io/settings/pages (which need to replace with your GitHub acountname first)
