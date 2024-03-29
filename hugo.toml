@@ -6,8 +6,6 @@ theme = 'archie'
 [params]
         mode="toggle"
         subtitle = "wrangling on the edges of my map"
-        mathjax = true
-        katex = true
         customcss = ["css/tweak.css"]
 
 [[params.social]]

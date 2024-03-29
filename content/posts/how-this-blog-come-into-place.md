@@ -2,27 +2,39 @@
 title = 'How This Blog Come Into Place'
 date = 2024-03-29T21:47:26+08:00
 tldr = 'yet another blog setup guide'
-description = 'setup a blog on your machine & GitHub'
+description = 'setup a blog at local & on GitHub'
 tags = ['manual']
 +++
 
-# I need a blog
+## I need a blog
 - my choice is [HUGO](https://gohugo.io/)
-    - `brew install hugo` or [else](https://gohugo.io/installation/)
-        - smoke test `hugo version`
-        - init blog `hugo new site ${your_blog_name}`
-        - cd to your blog's directory
-        - `git init` let Git be in charge of current folder's history
-        - add the theme you like, I like `archie` theme
-          - `git submodule add https://github.com/athul/archie.git themes/archie`
-        - config via `hugo.toml`
-          - add the above you just install `echo "theme = 'archie'" >> hugo.toml`
-          - light & dark mode
-          - subtitle for your blog
-        - up & run `hugo server`
-        - all blogs go in `content/posts` directory, [see](https://gohugo.io/getting-started/quick-start/#add-content)
-          - `hugo new content posts/${name-for-your-post}.md`
+  - write blog(s) at local
+    - `brew install hugo` or [else](https://gohugo.io/installation/), smoke test `hugo version`
+    - find a place to init your blog `hugo new site ${your_blog_name}`, then `cd` into it
+    - let Git be in charge of your blog history `git init`
+    - [find a theme you like](https://themes.gohugo.io/), I like `archie` and download it
+      - `git submodule add https://github.com/athul/archie.git themes/archie`
+    - `touch hugo.toml` to config: [see]()
+      - theme `echo "theme = 'archie'" >> hugo.toml`
+      - light & dark mode
+      - subtitle of your blog
+      - blabla ...
+    - checkout our blog at local `hugo server`
+    - [all blogs stored in "content/posts" directory](https://gohugo.io/getting-started/quick-start/#add-content)
+      - create blog with date comes in place via cli `hugo new content posts/${name-for-your-post}.md` with `date`
+      - write down your thought
+  - upload to Github
+    - create a Github repo, matching against `${your_GH_name}.github.io`
+    - push to Github
+      - `git remote add origin git@github.com:${your_GH_name}/${your_GH_name}.github.io.git`
+      - `git branch -M main`
+      - `git push -u origin main`
+    - add workflow
+      - goto `https://github.com/${your_GH_name}/${your_GH_name}.github.io/settings/pages`'s Build and deployment section, select source as `Github Actions`
+    - create `.github/workflows/hugo.yaml` with content from [hosting & deploy on Github](https://gohugo.io/hosting-and-deployment/hosting-on-github/)'s Step 6
+    - commit hugo.yaml with msg "add workflow"
 
+<!-- https://pages.github.com/ -->
 <!-- references links -->
 <!-- upload to github -->
 <!-- add github actions -->
