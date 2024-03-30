@@ -10,7 +10,7 @@ theme = 'archie'
 
 [services]
         [services.disqus]
-                shortname = 'dergum_wong'
+                shortname = 'dergumwong'
 
 [[params.social]]
 name = "GitHub"

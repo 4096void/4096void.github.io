@@ -34,6 +34,9 @@ tags = ['whipthrough']
       - goto `https://github.com/${your_GH_name}/${your_GH_name}.github.io/settings/pages`'s Build and deployment section, select source as `Github Actions`
     - create `.github/workflows/hugo.yaml` with content from [hosting & deploy on Github](https://gohugo.io/hosting-and-deployment/hosting-on-github/)'s Step 6
     - commit hugo.yaml with msg "add workflow"
+  - add disqus
+    - [find your shortname of Disqus](https://dergumwong.disqus.com/admin/settings/general/)
+    - add `disqusShortname = ${yourDisqusShortname}` to `hugo.toml`
 
 ## references
 - HUGO https://gohugo.io/
@@ -44,4 +47,5 @@ tags = ['whipthrough']
 - GitHub Pages https://pages.github.com/
 - Host on GitHub Pages https://gohugo.io/hosting-and-deployment/hosting-on-github/
 - Configure your GitHub repo build & deployment source at https://github.com/${your_GH_name}/${your_GH_name}.github.io/settings/pages (which need to replace with your GitHub acountname first)
+- where to find your Disqus shortname https://dergumwong.disqus.com/admin/settings/general/
 - Ask HN: Looking for lightweight personal blogging platform https://news.ycombinator.com/item?id=39272953
