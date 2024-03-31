@@ -8,7 +8,9 @@ theme = 'archie'
         subtitle = "wrangling on the edges of my map"
         customcss = ["css/tweak.css"]
 
-disqusShortname = "dergumwong"
+[services]
+        [services.disqus]
+                shortname = 'dergumwong'
 
 [[params.social]]
 name = "GitHub"
