@@ -17,6 +17,11 @@ name = "GitHub"
 icon = "github"
 url = "https://github.com/4096void"
 
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/thrilling_gem"
+
 [[menu.main]]
 name = "home"
 url = "/"
