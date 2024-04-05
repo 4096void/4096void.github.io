@@ -1,9 +1,10 @@
 +++
 title = 'Gems'
+date = 2024-04-05T23:48:00+08:00
 +++
 
 > 因此，龙树菩萨首先要搞清楚，现象世界的因果，最终如何变成精神上的苦乐，甚至改变生命的循环。那时候的佛教将因果关系分成四种：「因缘」、「缘缘」、「次第缘」或「等无间缘」和「增上缘」。譬如说，橙的种子是因，种出橙子是果，这个关系是最基本的「因缘」。把橙子放进口里，舌头接触到甜味与酸味，产生「好味」的感觉，便是「缘缘」，亦是物质世界与精神世界的桥梁。这种感觉瞬即消逝，脑里却升起小时候爸爸把橙子分给我们吃的温馨。这些念头一个接一个地出现，此起彼落，毫不间断，故名「次第缘」或「等无间缘」。其他所有间接帮助这颗种子，甚至没有阻碍种子成长的，都叫「增上缘」。即使说，阳光雨水与空气固然是「增上缘」，雀鸟没有把种子吃掉、暴风没有把树吹折都算是「增上缘」。所以，几乎整个世界都是「增上缘」。「增上缘」涵盖如此之广，难怪龙树菩萨都只好说：「更无第五缘」。
 >
 > 留意的是，龙叔在这里并未反对有因果关系。
 
-[龍樹中觀的世界: The World of Mulamadhyamakakarika](https://www.amazon.com/%E9%BE%8D%E6%A8%B9%E4%B8%AD%E8%A7%80%E7%9A%84%E4%B8%96%E7%95%8C-World-Mulamadhyamakakarika-Traditional-Chinese-ebook/dp/B08MTGLJBR) page 28
+[龍樹中觀的世界: The World of Mulamadhyamakakarika](https://www.amazon.com/%E9%BE%8D%E6%A8%B9%E4%B8%AD%E8%A7%80%E7%9A%84%E4%B8%96%E7%95%8C-World-Mulamadhyamakakarika-Traditional-Chinese-ebook/dp/B08MTGLJBR) page 27
