@@ -3,4 +3,5 @@ title = 'About me'
 layout = 'about'
 +++
 
-# about me 👋
+# 👋
+hope you enjoy my writings

@@ -23,21 +23,26 @@ icon = "twitter"
 url = "https://twitter.com/thrilling_gem"
 
 [[menu.main]]
-name = "home"
+name = "Home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "all posts"
+name = "All Posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "about"
+name = "Gems"
+url = "/gems"
+weight = 2
+
+[[menu.main]]
+name = "About"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "tags"
+name = "Tags"
 url = "/tags"
 weight = 4
