@@ -1,3 +1,4 @@
-## tips
-- `hugo new content posts/${title-for-your-post}.md` to create post, date & time included
-- `hugo new content posts/${title}.md` create regular post inside `content/posts` folder
+## reheat
+- `hugo new content` create posts with date & time prepared
+  - `hugo new content posts/${title}.md` posts inside `content/posts` folder
+  - `hugo new content ${title}.md` posts inside `content` folder
