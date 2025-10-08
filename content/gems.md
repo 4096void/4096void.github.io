@@ -19,6 +19,6 @@ added at Apr 5, 2024 23:44
 
 [Explore More: A Bag of Tricks to Keep Your Life on the Rails](https://www.lesswrong.com/posts/uwmFSaDMprsFkpWet/explore-more-a-bag-of-tricks-to-keep-your-life-on-the-rails) 
 
-而类似的 [YOLO (aphorism)](https://en.wikipedia.org/wiki/YOLO_(aphorism)) 多少有消费主义宣言的味道
+而类似的 [YOLO (aphorism)](https://en.wikipedia.org/wiki/YOLO_(aphorism)) 多少带有消费主义宣言的味道
 
 added at Oct 8, 2025 21:44
