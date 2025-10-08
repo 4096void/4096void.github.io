@@ -8,3 +8,17 @@ date = 2024-04-05T23:48:00+08:00
 > 留意的是，龙树在这里并未反对有因果关系。
 
 [龍樹中觀的世界: The World of Mulamadhyamakakarika](https://www.amazon.com/%E9%BE%8D%E6%A8%B9%E4%B8%AD%E8%A7%80%E7%9A%84%E4%B8%96%E7%95%8C-World-Mulamadhyamakakarika-Traditional-Chinese-ebook/dp/B08MTGLJBR) page 27
+
+added at Apr 5, 2024 23:44
+
+> Honestly, I was a little bit grander about the whole thing. I realized I wanted to figure out how a Shoshannah-shaped brain can end up doing uniquely Shoshannah-shaped stuff, and basically explore the part of reality and possibility space that can only be explored by someone with my exact brain and circumstances.
+>
+> This logic can apply to everyone. You are the only person who ever lived and will ever live who can explore what it's like to do stuff exactly your way, with your brain, and get the exact results you will get.
+>
+> Simple - for every activity you naturally want to do, try to figure out a way to apply it to your direction. Your direction is sort of like a theme - if your direction is X and your interest is Y, then go do X-flavored Y-things
+
+[Explore More: A Bag of Tricks to Keep Your Life on the Rails](https://www.lesswrong.com/posts/uwmFSaDMprsFkpWet/explore-more-a-bag-of-tricks-to-keep-your-life-on-the-rails) 
+
+而类似的 [YOLO (aphorism)](https://en.wikipedia.org/wiki/YOLO_(aphorism)) 多少有消费主义宣言的味道
+
+added at Oct 8, 2025 21:44
