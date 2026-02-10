@@ -22,3 +22,11 @@ added at Apr 5, 2024 23:44
 而类似的 [YOLO (aphorism)](https://en.wikipedia.org/wiki/YOLO_(aphorism)) 多少带有消费主义宣言的味道
 
 added at Oct 8, 2025 21:44
+
+> If you can engineer a life that’s at least benign for other people that’s mostly chanda, you are doing well. And if you can design a life where getting your chanda is also good for others, you are insanely fortunate. Most materially wealthy people live in a prison, compared to the freedom you enjoy. Be completely grateful that you and the world can operate in joyful harmony.
+
+[The two kinds of desire, and one of the most important things I know](https://sashachapin.substack.com/p/the-two-kinds-of-desire-and-one-of)
+
+简而言之 Chanda 禅达类似自由
+
+added at Feb 10, 2026 10:25
